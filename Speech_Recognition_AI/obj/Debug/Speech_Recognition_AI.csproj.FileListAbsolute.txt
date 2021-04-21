@@ -1,0 +1,61 @@
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe.config
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.pdb
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csprojResolveAssemblyReference.cache
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form1.resources
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Properties.Resources.resources
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.GenerateResource.Cache
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.exe
+C:\User\NAVIII\Dsesktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.pdb
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe.config
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.exe
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.pdb
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.pdb
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csprojResolveAssemblyReference.cache
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form1.resources
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Properties.Resources.resources
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.GenerateResource.Cache
+C:\Users\SHAYAN JAMIL\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form2.resources
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe.config
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.pdb
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form1.resources
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form2.resources
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Properties.Resources.resources
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.exe
+C:\Users\ACER\Desktop\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.pdb
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe.config
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.exe
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.pdb
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.pdb
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csprojResolveAssemblyReference.cache
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form1.resources
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form2.resources
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Properties.Resources.resources
+E:\device\university\Artificial Intelligence\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.GenerateResource.Cache
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe.config
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.exe
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.pdb
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.pdb
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csprojResolveAssemblyReference.cache
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form1.resources
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form2.resources
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Properties.Resources.resources
+D:\University\Sixth Semester\AI\projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.GenerateResource.Cache
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe.config
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.exe
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\bin\Debug\Speech_Recognition_AI.pdb
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csprojAssemblyReference.cache
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form1.resources
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Form2.resources
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.Properties.Resources.resources
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.GenerateResource.cache
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.csproj.CoreCompileInputs.cache
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.exe
+D:\HCI Projects\Speech_Recognition_AI\Speech_Recognition_AI\obj\Debug\Speech_Recognition_AI.pdb

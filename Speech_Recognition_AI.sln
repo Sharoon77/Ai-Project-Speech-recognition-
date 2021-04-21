@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech_Recognition_HCI", "Speech_Recognition_AI\Speech_Recognition_HCI.csproj", "{BDE2508E-5E15-4517-B42C-519BC28BEFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE2508E-5E15-4517-B42C-519BC28BEFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE2508E-5E15-4517-B42C-519BC28BEFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE2508E-5E15-4517-B42C-519BC28BEFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE2508E-5E15-4517-B42C-519BC28BEFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96606FAF-BD6A-4569-8557-CB97ADB4A386}
+	EndGlobalSection
+EndGlobal
